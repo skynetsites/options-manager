@@ -15,13 +15,13 @@ Import and export WordPress options using a json file
 
 Import and export WordPress options using a json file.
 
-Inspired by: [Creating a Simple Backup/Restore Settings Feature - WP Tuts](wp.tutsplus.com/tutorials/creative-coding/creating-a-simple-backuprestore-settings-feature/)
+Inspired by: [Creating a Simple Backup/Restore Settings Feature - WP Tuts](http://wp.tutsplus.com/tutorials/creative-coding/creating-a-simple-backuprestore-settings-feature/)
 
 ## pt-br:
 
 Importe e exporte opções do WordPress usando um arquivo json.
 
-Inspirado em: [Creating a Simple Backup/Restore Settings Feature - WP Tuts](wp.tutsplus.com/tutorials/creative-coding/creating-a-simple-backuprestore-settings-feature/)
+Inspirado em: [Creating a Simple Backup/Restore Settings Feature - WP Tuts](http://wp.tutsplus.com/tutorials/creative-coding/creating-a-simple-backuprestore-settings-feature/)
 
 == Installation ==
 
