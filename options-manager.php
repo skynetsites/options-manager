@@ -134,9 +134,8 @@ function opmanager_export_page() {
         </p>
         <input type="hidden" name="exportop" value="1" />
         <?php wp_nonce_field( 'opmanager-export' ); ?>
-        <p class="submit">
-            <input type="submit" class="button-primary" name="submit" value="<?php _e( 'Generate File', 'opmanager' ); ?>" />
-        </p>
+
+        <?php submit_button( __( 'Generate File', 'opmanager' ), 'primary' ); ?>
     </form>
     <?php
 }
@@ -175,7 +174,7 @@ function opmanager_import_page() {
         <p class="submit">
             <?php wp_nonce_field('opmanager-import'); ?>
             <input type="file" name="import" />
-            <input type="submit" name="submit" value="<?php _e( 'Restore', 'opmanager' ); ?>" />
+            <?php submit_button( __( 'Restore', 'opmanager' ), 'secondary', 'submit', false ); ?>
         </p>
     </form>
     <?php
