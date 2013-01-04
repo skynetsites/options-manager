@@ -42,7 +42,7 @@ Inspirado em: [Creating a Simple Backup/Restore Settings Feature - WP Tuts](http
 
 ## Changelog ##
 
-### 1.1 04/01/2013 ###
+### 1.1 - 04/01/2013 ###
 
 * Source code reformulation.
 
