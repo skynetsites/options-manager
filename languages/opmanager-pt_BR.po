@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Options Manager v1.0\n"
+"Project-Id-Version: Options Manager v1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-10-20 08:03:10+0000\n"
+"PO-Revision-Date: 2013-01-04 03:36:02+0000\n"
 "Last-Translator: Claudio Sanches <contato@claudiosmweb.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -20,105 +20,89 @@ msgstr ""
 "X-Textdomain-Support: yes"
 
 #. translators: plugin header field 'Name'
-#: op.php:0
-#: op.php:27
 #: options-manager.php:0
+#: options-manager.php:47
 #@ opmanager
 msgid "Options Manager"
 msgstr "Gerenciador de Opções"
 
 #. translators: plugin header field 'PluginURI'
 #. translators: plugin header field 'AuthorURI'
-#: op.php:0
 #: options-manager.php:0
 #@ opmanager
 msgid "http://www.claudiosmweb.com/"
 msgstr "http://www.claudiosmweb.com/"
 
-#. translators: plugin header field 'Description'
-#: op.php:0
-#: options-manager.php:0
-#@ opmanager
-msgid "Import and export WordPress options using a json file"
-msgstr "Importe e exporte opções do WordPress usando um arquivo json"
-
 #. translators: plugin header field 'Author'
-#: op.php:0
 #: options-manager.php:0
 #@ opmanager
 msgid "claudiosanches"
 msgstr "claudiosanches"
 
-#. translators: plugin header field 'Version'
-#: op.php:0
-#: options-manager.php:0
-#@ opmanager
-msgid "1.0"
-msgstr "1.0"
-
-#: op.php:58
-#: options-manager.php:58
+#: options-manager.php:74
 #@ opmanager
 msgid "Export"
 msgstr "Exportar"
 
-#: op.php:58
-#: options-manager.php:58
+#: options-manager.php:74
 #@ opmanager
 msgid "Import"
 msgstr "Importar"
 
-#: op.php:84
-#: options-manager.php:84
+#: options-manager.php:124
 #@ opmanager
 msgid "m-d-Y"
 msgstr "d-m-Y"
 
-#: op.php:120
-#: options-manager.php:120
+#: options-manager.php:155
 #@ opmanager
 msgid "Select the options you want to save:"
 msgstr "Selecione as opções que você deseja salvar:"
 
-#: op.php:132
-#: options-manager.php:132
+#: options-manager.php:167
 #@ opmanager
 msgid "File name:"
 msgstr "Nome do arquivo:"
 
-#: op.php:138
-#: options-manager.php:138
+#: options-manager.php:173
 #@ opmanager
 msgid "Generate File"
 msgstr "Gerar Arquivo"
 
-#: op.php:166
-#: options-manager.php:166
+#: options-manager.php:200
 #@ opmanager
 msgid "All options are restored successfully."
 msgstr "Todas as opções foram restauradas com sucesso."
 
-#: op.php:168
-#: options-manager.php:168
+#: options-manager.php:202
 #@ opmanager
 msgid "Invalid file or file size too big."
 msgstr "Arquivo de formato invalido ou muito grande."
 
-#: op.php:174
-#: options-manager.php:174
+#: options-manager.php:208
 #@ opmanager
 msgid "Select a json backup file valid:"
 msgstr "Selecione um arquivo json de backup válido"
 
-#: op.php:178
-#: options-manager.php:178
+#: options-manager.php:212
 #@ opmanager
 msgid "Restore"
 msgstr "Restaurar"
 
-#: op.php:150
-#: options-manager.php:150
+#: options-manager.php:184
 #@ opmanager
 msgid "An error has occurred with the file!"
 msgstr "Ocorreu um erro com o arquivo!"
+
+#. translators: plugin header field 'Description'
+#: options-manager.php:0
+#@ opmanager
+msgid "Import and export WordPress options using a json file."
+msgstr "Import and export WordPress options using a json file."
+
+#. translators: plugin header field 'Version'
+#: options-manager.php:0
+#@ opmanager
+msgid "1.1"
+msgstr "1.1"
 

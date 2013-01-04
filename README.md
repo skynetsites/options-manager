@@ -1,16 +1,16 @@
-=== Options Manager ===
-Contributors: claudiosanches
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RBVENSVSKY7JC
-Tags: options, manager, backup, import, export, json
-Requires at least: 3.0
-Tested up to: 3.5
-Stable tag: 1.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# Options Manager #
+**Contributors:** claudiosanches  
+**Donate link:** https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RBVENSVSKY7JC  
+**Tags:** options, manager, backup, import, export, json  
+**Requires at least:** 3.0  
+**Tested up to:** 3.5  
+**Stable tag:** 1.1  
+**License:** GPLv2 or later  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
 Import and export WordPress options using a json file
 
-== Description ==
+## Description ##
 
 Import and export WordPress options using a json file.
 
@@ -22,7 +22,7 @@ Importe e exporte opções do WordPress usando um arquivo json.
 
 Inspirado em: [Creating a Simple Backup/Restore Settings Feature - WP Tuts](http://wp.tutsplus.com/tutorials/creative-coding/creating-a-simple-backuprestore-settings-feature/)
 
-== Installation ==
+## Installation ##
 
 * Upload plugin files to your plugins folder, or install using WordPress built-in Add New Plugin installer;
 * Activate the plugin;
@@ -34,23 +34,23 @@ Inspirado em: [Creating a Simple Backup/Restore Settings Feature - WP Tuts](http
 * Ative o plugin;
 * Navegue até Configurações -> Gerenciador de Opções e crie os arquivos para backup.
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ##
 
-= What is the plugin license? =
+### What is the plugin license? ###
 
 * This plugin is released under a GPL license.
 
-== Changelog ==
+## Changelog ##
 
-= 1.1 04/01/2013 =
+### 1.1 04/01/2013 ###
 
 * Source code reformulation.
 
-= 1.0 =
+### 1.0 ###
 
 * Initial plugin release.
 
-== License ==
+## License ##
 
 This file is part of Options Manager.
 Options Manager is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published
